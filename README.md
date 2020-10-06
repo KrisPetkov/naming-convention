@@ -40,6 +40,8 @@ Reasons for using a naming convention (as opposed to allowing programmers to cho
 
 
 ## Useful links for name conventions
+ - [PEP 8 — the Style Guide for Python Code](https://pep8.org/)
+ - [PHP Standards Recommendations](https://www.php-fig.org/psr/)
  - [NET Naming Guidelines][1]
  - [Framework Design Guidelines][2]
  - [Google style guides for open source projects](https://github.com/google/styleguide)
@@ -60,6 +62,8 @@ Reasons for using a naming convention (as opposed to allowing programmers to cho
  - [MSDN Approved Verbs for Windows PowerShellCommands][6]
  - [The PowerShell Best Practices and Style Guide](https://github.com/PoshCode/PowerShellPracticeAndStyle)
  - [PostgreSQL naming conventions](https://stackoverflow.com/q/2878248/2298061)
+ - [Lint commit messages](https://github.com/conventional-changelog/commitlint)
+ - [Comprehensive language-agnostic guidelines on naming variables](https://github.com/kettanaito/naming-cheatsheet)
  - [SEI CERT Coding Standards](https://wiki.sei.cmu.edu/confluence/display/HOME)
    - [SEI CERT C Coding Standard](https://wiki.sei.cmu.edu/confluence/display/c/SEI+CERT+C+Coding+Standard)
    - [SEI CERT C++ Coding Standard](https://wiki.sei.cmu.edu/confluence/pages/viewpage.action?pageId=88046682)
@@ -67,6 +71,7 @@ Reasons for using a naming convention (as opposed to allowing programmers to cho
    - [Android Secure Coding Standard](https://wiki.sei.cmu.edu/confluence/display/android/Android+Secure+Coding+Standard)
    - [SEI CERT Perl Coding Standard](https://wiki.sei.cmu.edu/confluence/display/perl/SEI+CERT+Perl+Coding+Standard)
    - [SEI CERT Perl Coding Standard](https://wiki.sei.cmu.edu/confluence/display/perl/SEI+CERT+Perl+Coding+Standard)
+ - [SQL Style Guide](https://www.sqlstyle.guide)
 
 
 ## Relation Database Documentation
@@ -78,9 +83,10 @@ Reasons for using a naming convention (as opposed to allowing programmers to cho
 
 
 ## Different Languages Style Guides
- - C# Language ([C# Programming Guide])
+ - [C# Coding Conventions](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions)
  - JavaScript
     - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+    - [Перевод «JavaScript Style Guide» от Airbnb](https://github.com/leonidlebedev/javascript-airbnb)
     - [Standard ECMA-262](http://www.ecma-international.org/publications/standards/Ecma-262.htm)
     - [Microsoft TypeScript Coding guidelines](https://github.com/Microsoft/TypeScript/wiki/Coding-guidelines)
     - [Mozilla Javascript Manual](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -99,6 +105,9 @@ Reasons for using a naming convention (as opposed to allowing programmers to cho
  - [Bioconductor R Package Guidelines](http://bioconductor.org/developers/package-guidelines/)
  - [Colin Gillespie’s R style guide](http://csgillespie.wordpress.com/2010/11/23/r-style-guide/)
  - [Hadley Wickham’s R style guide](http://stat405.had.co.nz/r-style.html)
+
+## License
+[MIT](/LICENSE)
 
 [1]:https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/naming-guidelines
 [2]:https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines
